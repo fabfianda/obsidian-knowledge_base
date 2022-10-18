@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "ce0323166d80b1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac03e7f2476c6ac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd318a37dc574827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set keyboard options on keyboard plug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "814ce777b77463c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Build LineageOS ROM for unsupported device.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60afb89d493c834c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0e75b5f908cf783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6d73fbaeb97f250",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a23ce7495c959cfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f25b8261b538a46a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b0ffdf6c2bdb4fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e60181666a030b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25164da439f253f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Build LineageOS ROM for unsupported device.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b85783e90a14e94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Build LineageOS ROM for unsupported device.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67355f9884b33afb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "413b4aae3abe20df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Build LineageOS ROM for unsupported device.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "814ce777b77463c5",
+  "lastOpenFiles": [
+    "Set keyboard options on keyboard plug.md",
+    "Build LineageOS ROM for unsupported device.md"
+  ]
+}
