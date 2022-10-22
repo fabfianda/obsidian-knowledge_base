@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LineageOS Galaxy Note local manifests.md",
+                "file": "TWRP cli.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LineageOS Galaxy Note local manifests.md",
+            "file": "TWRP cli.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LineageOS Galaxy Note local manifests.md",
+            "file": "TWRP cli.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LineageOS Galaxy Note local manifests.md"
+            "file": "TWRP cli.md"
           }
         }
       }
@@ -126,7 +126,8 @@
   },
   "active": "144ed53223f4c8d8",
   "lastOpenFiles": [
-    "Build LineageOS ROM for unsupported device.md",
-    "Set keyboard options on keyboard plug.md"
+    "LineageOS Galaxy Note local manifests.md",
+    "Set keyboard options on keyboard plug.md",
+    "Build LineageOS ROM for unsupported device.md"
   ]
 }
