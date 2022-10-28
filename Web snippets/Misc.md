@@ -1,4 +1,4 @@
-[ROOT] [Magisk] [Service.d] [Script] [Fix] DriveDroid on Android 9+
+Gist: Fix DriveDroid on Android 9+
 https://gist.github.com/mmtrt/5dfbd2559ea988dfbe56277347ac6c96
 
 Xerosploit
