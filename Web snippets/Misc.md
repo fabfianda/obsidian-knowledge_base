@@ -9,3 +9,6 @@ https://null-byte.wonderhowto.com/how-to/hack-wi-fi-networks-with-bettercap-0194
 
 Stabile Diffusion Prompt Book
 https://openart.ai/promptbook
+
+Magisk overlay and services
+https://github.com/topjohnwu/Magisk/blob/master/docs/guides.md
