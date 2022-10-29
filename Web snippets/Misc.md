@@ -6,3 +6,6 @@ https://null-byte.wonderhowto.com/how-to/perform-advanced-man-middle-attacks-wit
 
 Bettercap
 https://null-byte.wonderhowto.com/how-to/hack-wi-fi-networks-with-bettercap-0194422/
+
+Stabile Diffusion Prompt Book
+https://openart.ai/promptbook
