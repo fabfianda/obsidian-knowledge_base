@@ -15,3 +15,6 @@ https://openart.ai/promptbook
 
 Magisk overlay and services
 https://github.com/topjohnwu/Magisk/blob/master/docs/guides.md
+
+BurpSuite for webapp testing
+https://youtu.be/IWWYNDiwYOA 
