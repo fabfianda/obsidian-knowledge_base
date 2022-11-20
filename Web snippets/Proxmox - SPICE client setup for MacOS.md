@@ -6,7 +6,7 @@
     
 2.  Once that's installed should be able make a call `remote-viewer` with a _pve-spice.vv_ file downloaded from proxmox web interface
     
-    remote-viewer pve-spice.vv
+    `remote-viewer pve-spice.vv`
     
     Check out this [useful script](https://gist.github.com/tomdaley92/789688fc68e77477d468f7b9e59af51c#file-pve-spice-sh) for debugging. There are also several other cli tools like [this one](https://github.com/Corsinvest/cv4pve-pepper) on GitHub that can be used to test the same sort of thing.
     
