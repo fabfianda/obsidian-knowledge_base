@@ -1,8 +1,17 @@
 
+ref: https://gist.github.com/tomdaley92/789688fc68e77477d468f7b9e59af51c
+
 1.  Install a working (and compiled) version of [virt-viewer](https://www.spice-space.org/osx-client.html). You may view the homebrew package's upstream source on [GitHub](https://github.com/jeffreywildman/homebrew-virt-manager).
     
-    brew tap jeffreywildman/homebrew-virt-manager
+    brew tap jeffreywildman/homebrew-virt-
+    manager
     brew install virt-viewer
+
+brew tap damenly/virt-manager
+brew install virt-manager --HEAD
+brew install damenly/virt-manager/virt-viewer
+
+
     
 2.  Once that's installed should be able make a call `remote-viewer` with a _pve-spice.vv_ file downloaded from proxmox web interface
     
