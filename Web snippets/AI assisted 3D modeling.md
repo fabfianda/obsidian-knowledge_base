@@ -1,0 +1,1 @@
+ref: https://www.traffickinggame.com/ai-assisted-graphics/
